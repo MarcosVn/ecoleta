@@ -1,2 +1,2 @@
 # ecoleta
-Projeto construído na NLW da Rockeatseat
+Projeto construído na NLW da Rocketseat
